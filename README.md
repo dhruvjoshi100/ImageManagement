@@ -1,6 +1,7 @@
 # ImageManagement
 
 Pre-Requisites
+
 1.Django
 
 2.Django-Rest-Framework
