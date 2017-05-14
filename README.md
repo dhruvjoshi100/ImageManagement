@@ -2,9 +2,11 @@
 
 Pre-Requisites
 1.Django
+
 2.Django-Rest-Framework
 
 To run server - python manage.py runserver
+
 Create Superuser - python manage.py createsuperuser
 
 
